@@ -1,4 +1,4 @@
-# **BIO**
+# **Bio**
 
 - 👋 Hi, I’m **@EntropyRedux** an entry level Data Analytics Professional recently completed Coursera Course Google Data Analytics. 
 
