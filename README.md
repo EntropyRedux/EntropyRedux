@@ -9,9 +9,14 @@ Programming Languages: R, SQL
 Techniques: Data Visualization, Data Analysis
 Tools: RStudio, MySQL, BigQuery, Excel/Sheets, Tableau
 
+**Portfolio/ Projects**
+Visit my [Kaggle Profile](https://www.kaggle.com/marvinbulahan)
+Visit my [Tableau Public Profile](https://public.tableau.com/app/profile/entropy)
+
 Feel free to connect with me!
 
 [RESUME](https://drive.google.com/file/d/1Nd73AtGGoJNBVX0LBy0scKBRZku8NVLp/view?usp=sharing)
+!!!to be updated!!!
 
 
 <!---
